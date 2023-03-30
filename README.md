@@ -9,7 +9,7 @@ EXQR-30-composite-high-EW.txt		composite spectrum for E-QXR-30 quasars with rest
 
 EXQR-30-composite-low-EW.txt		composite spectrum for E-QXR-30 quasars with rest-frame CIV EW <14.5 A, including 21 quasars
 
-#File structure: 
+File structure: 
 
 Column 1 = rest-frame wavelength [in units of A] 
 
